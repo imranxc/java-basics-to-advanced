@@ -11,14 +11,14 @@
 ## Java from Basics to Advanced — Shrayansh Jain
 
 <a href="https://www.udemy.com/course/java_basics_to_advanced/">
-    <img src="https://i.ibb.co/nRDfhwW/image.png" alt="java basics to advanced">
+    <img src="https://i.ibb.co.com/k2Ywtw8f/Capture.png" alt="java basics to advanced">
 </a>
 
 ### Contents
 
 * Object Oriented Programming
 * Generics and Collection
-* Annonations
+* Annotations
 * Reflection
 * Exception Handling
 * Memory Management
